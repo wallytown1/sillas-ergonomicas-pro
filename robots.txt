@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wallytown1.github.io/sillas-ergonomicas-pro/sitemap.xml
